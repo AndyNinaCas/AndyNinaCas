@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Andy
-- 👀 I’m interested in the Universe and PC Games
 - 🌱 I’m currently learning C#
